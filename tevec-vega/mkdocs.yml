@@ -1,0 +1,27 @@
+site_name: Documentação Sirius
+site_description: Documentação responsavel por toda informação pertinente ao Sirius.
+theme: readthedocs
+pages:
+- ['index.md', 'Introdução']
+- ['index.md', 'Download']
+- ['index.md', 'Instalação']
+- ['index.md', 'Configuração']
+- ['index.md', 'GUIA DE USO', 'Contratos']
+- ['index.md', 'GUIA DE USO', 'Modelos']
+
+#- ['index.md', 'CONTRATOS', 'Ponto de Movimentação']
+#- ['index.md', 'CONTRATOS', 'Fluxo de Abastecimento']
+#- ['index.md', 'CONTRATOS', 'Pedidos (ordem abastecimento?)']
+#- ['index.md', 'CONTRATOS', 'Produtos']
+#- ['index.md', 'CONTRATOS', 'Receitas']
+#- ['index.md', 'CONTRATOS', 'Marketing']
+
+#- ['index.md', 'MODELOS', 'Ponto de Movimentação']
+#- ['index.md', 'MODELOS', 'Fluxo de Abastecimento']
+#- ['index.md', 'MODELOS', 'Pedidos (ordem abastecimento?)']
+#- ['index.md', 'MODELOS', 'Produtos']
+#- ['index.md', 'MODELOS', 'Receitas']
+#- ['index.md', 'MODELOS', 'Marketing']
+
+
+
